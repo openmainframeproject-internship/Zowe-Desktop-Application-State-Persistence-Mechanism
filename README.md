@@ -10,7 +10,7 @@ a better understanding of the problems you encountered during the developmemnt o
 | Documentation |  all documentation the project team has created to describe the architecture, design, installation and configuratin of the peoject |
 | Notes and Research | Relavent information useful to understand the tools and techniques used in the project |
 | Status Reports | Project management documentation - weekly reports, milestones, etc. |
-| scr | Source code - create as many subdirectories as needed |
+| src | Source code - create as many subdirectories as needed |
 
 ## Project Team
 - Sean Grady - Rocket Software - Mentor
